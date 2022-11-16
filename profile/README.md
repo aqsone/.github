@@ -1,1 +1,1 @@
-![Header](https://github.com/aqsone/.github-private/blob/main/header-aqsone.png)
+![Header](https://github.com/aqsone/.github/blob/main/header-aqsone.png)
