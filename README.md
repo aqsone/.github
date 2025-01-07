@@ -1,1 +1,1 @@
-### Public description of Aqsone Github organization
+### Aqsone Github organization
